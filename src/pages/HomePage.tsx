@@ -13,15 +13,15 @@ export default function HomePage() {
   <div id="home" data-section="home">
     <SectionErrorBoundary name="home">
           <HeroSplitVerticalMarqueeTall
-      tag="Kiko Beauty Marrakesh"
-      title="Your Trusted Pharmacy Beauty Partner"
-      description="Discover premium dermo-cosmetics in the heart of Marrakesh. Expert advice and world-renowned brands like La Roche-Posay, Avène, and Caudalie."
+      tag="Kiko Beauty Marrakech"
+      title="Votre Partenaire Beauté Parapharmacie de Confiance"
+      description="Découvrez des dermo-cosmétiques premium au cœur de Marrakech. Des conseils d'experts et des marques de renommée mondiale comme La Roche-Posay, Avène et Caudalie."
       primaryButton={{
-        text: "Explore Products",
+        text: "Explorer les Produits",
         href: "#products",
       }}
       secondaryButton={{
-        text: "Visit Us",
+        text: "Nous Rendre Visite",
         href: "#contact",
       }}
       leftItems={[
@@ -54,11 +54,11 @@ export default function HomePage() {
   <div id="about" data-section="about">
     <SectionErrorBoundary name="about">
           <AboutTestimonial
-      tag="Our Commitment"
-      quote="Kiko Beauty brings the world's finest parapharmaceutical care to your doorstep in Marrakesh. Our mission is to combine expert dermatological guidance with the most effective, safe, and luxurious skincare solutions available today."
-      author="The Kiko Beauty Team"
-      role="Dermo-Cosmetic Experts"
-      imageSrc="http://img.b2bpic.net/free-photo/smiley-woman-shopping-organic-products_23-2148672828.jpg"
+      tag="Notre Engagement"
+      quote="Kiko Beauty apporte les meilleurs soins parapharmaceutiques du monde à votre porte à Marrakech. Notre mission est de combiner des conseils dermatologiques experts avec les solutions de soins de la peau les plus efficaces, sûres et luxueuses disponibles aujourd'hui."
+      author="L'équipe Kiko Beauty"
+      role="Experts Dermo-Cosmétiques"
+      imageSrc="https://images.unsplash.com/photo-1616683693504-3ea7e9ad6fec?auto=format&fit=crop&q=80"
       textAnimation="fade-blur"
     />
     </SectionErrorBoundary>
@@ -67,14 +67,14 @@ export default function HomePage() {
   <div id="brands" data-section="brands">
     <SectionErrorBoundary name="brands">
           <FeaturesRevealCards
-      tag="Our Curated Brands"
-      title="World-Class Dermatological Partners"
-      description="We handpick only the highest standard dermo-cosmetic brands to ensure your skin receives the professional care it truly deserves."
+      tag="Nos Marques Sélectionnées"
+      title="Partenaires Dermatologiques de Classe Mondiale"
+      description="Nous sélectionnons uniquement les marques dermo-cosmétiques de la plus haute qualité pour garantir à votre peau les soins professionnels qu'elle mérite."
       items={[
         {
           title: "La Roche-Posay",
-          description: "Dermatologist-recommended skincare for sensitive skin.",
-          imageSrc: "http://img.b2bpic.net/free-photo/cosmetic-product-with-color-year-tones-3d-packaging_23-2151510169.jpg",
+          description: "Soins recommandés par les dermatologues pour les peaux sensibles.",
+          imageSrc: "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&q=80",
         },
         {
           title: "Avène",
@@ -83,8 +83,8 @@ export default function HomePage() {
         },
         {
           title: "Caudalie",
-          description: "Natural, vine-based skincare combining science and beauty.",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-skin-regeneration-products_23-2151242177.jpg",
+          description: "Soins naturels à base de vigne alliant science et beauté.",
+          imageSrc: "https://images.unsplash.com/photo-1615397323744-c161467eb0f4?auto=format&fit=crop&q=80&w=800",
         },
       ]}
       textAnimation="fade-blur"
@@ -95,14 +95,14 @@ export default function HomePage() {
   <div id="products" data-section="products">
     <SectionErrorBoundary name="products">
           <FeaturesImageBento
-      tag="Our Catalog"
-      title="Selected Skincare Essentials"
-      description="Browse our curated selection of high-performance beauty and medical-grade skincare products."
+      tag="Notre Catalogue"
+      title="Essentiels de Soin Sélectionnés"
+      description="Parcourez notre sélection de produits de beauté haute performance et de soins dermo-cosmétiques."
       items={[
         {
-          title: "Daily Moisturizer",
-          description: "Hydrate deeply.",
-          imageSrc: "http://img.b2bpic.net/free-photo/cosmetic-product-container-with-art-nouveau-inspired-sun-relief-background_23-2151420624.jpg",
+          title: "La Roche-Posay Effaclar",
+          description: "Soin anti-imperfections pour une peau nette.",
+          imageSrc: "https://images.unsplash.com/photo-1515377905703-c4788e51af15?auto=format&fit=crop&q=80&w=800",
         },
         {
           title: "Age Control",
@@ -143,14 +143,14 @@ export default function HomePage() {
   <div id="testimonials" data-section="testimonials">
     <SectionErrorBoundary name="testimonials">
           <TestimonialRatingCards
-      tag="Trusted by Many"
-      title="What Our Clients Say"
-      description="Join our community of satisfied skincare enthusiasts in Marrakesh."
+      tag="Ils nous font confiance"
+      title="Ce que disent nos clients"
+      description="Rejoignez notre communauté de passionnés de soins de la peau satisfaits à Marrakech."
       testimonials={[
         {
           name: "Amira S.",
-          role: "Client",
-          quote: "The expert advice I received here changed my skin journey completely.",
+          role: "Cliente",
+          quote: "Les conseils d'experts que j'ai reçus ici ont complètement transformé ma peau.",
           rating: 5,
           imageSrc: "http://img.b2bpic.net/free-photo/portrait-woman-working-pharmaceutical-industry_23-2151684864.jpg",
         },
@@ -191,13 +191,13 @@ export default function HomePage() {
   <div id="faq" data-section="faq">
     <SectionErrorBoundary name="faq">
           <FaqTwoColumn
-      tag="Need Help?"
-      title="Frequently Asked Questions"
-      description="Have questions? We're here to provide guidance."
+      tag="Besoin d'aide ?"
+      title="Questions Fréquemment Posées"
+      description="Vous avez des questions ? Nous sommes là pour vous guider."
       items={[
         {
-          question: "Where are you located?",
-          answer: "We are located conveniently in Marrakesh city center.",
+          question: "Où êtes-vous situés ?",
+          answer: "Nous sommes idéalement situés au centre-ville de Marrakech.",
         },
         {
           question: "Are your products authentic?",
@@ -220,14 +220,14 @@ export default function HomePage() {
   <div id="contact" data-section="contact">
     <SectionErrorBoundary name="contact">
           <ContactCta
-      tag="Visit Kiko Beauty"
-      text="Ready to revitalize your skin? Stop by our boutique today for a personal consultation."
+      tag="Visitez Kiko Beauty"
+      text="Prêt à revitaliser votre peau ? Passez à notre boutique aujourd'hui pour une consultation personnalisée."
       primaryButton={{
-        text: "Get Directions",
+        text: "Obtenir l'itinéraire",
         href: "#",
       }}
       secondaryButton={{
-        text: "Message Us",
+        text: "Nous envoyer un message",
         href: "#",
       }}
       textAnimation="fade-blur"
