@@ -58,7 +58,7 @@ export default function HomePage() {
       quote="Kiko Beauty apporte les meilleurs soins parapharmaceutiques du monde à votre porte à Marrakech. Notre mission est de combiner des conseils dermatologiques experts avec les solutions de soins de la peau les plus efficaces, sûres et luxueuses disponibles aujourd'hui."
       author="L'équipe Kiko Beauty"
       role="Experts Dermo-Cosmétiques"
-      imageSrc="https://images.pexels.com/photos/17891763/pexels-photo-17891763.jpeg?auto=compress&cs=tinysrgb&h=650&w=940&id=17891763"
+      imageSrc="https://images.pexels.com/photos/8406601/pexels-photo-8406601.jpeg?auto=compress&cs=tinysrgb&h=650&w=940&id=8406601"
       textAnimation="fade-blur"
     />
     </SectionErrorBoundary>
