@@ -84,7 +84,7 @@ export default function HomePage() {
         {
           title: "Caudalie",
           description: "Soins naturels à base de vigne alliant science et beauté.",
-          imageSrc: "https://images.unsplash.com/photo-1615397323744-c161467eb0f4?auto=format&fit=crop&q=80&w=800",
+          imageSrc: "https://images.pexels.com/photos/11911818/pexels-photo-11911818.jpeg?auto=compress&cs=tinysrgb&h=650&w=940&id=11911818",
         },
       ]}
       textAnimation="fade-blur"
