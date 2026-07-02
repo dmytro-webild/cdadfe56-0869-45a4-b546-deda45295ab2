@@ -74,7 +74,7 @@ export default function HomePage() {
         {
           title: "La Roche-Posay",
           description: "Soins recommandés par les dermatologues pour les peaux sensibles.",
-          imageSrc: "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&q=80",
+          imageSrc: "https://images.pexels.com/photos/27694097/pexels-photo-27694097.jpeg?auto=compress&cs=tinysrgb&h=650&w=940&id=27694097",
         },
         {
           title: "Avène",
