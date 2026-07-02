@@ -79,7 +79,7 @@ export default function HomePage() {
         {
           title: "Avène",
           description: "Soothing care based on the power of thermal spring water.",
-          imageSrc: "https://images.pexels.com/photos/6925496/pexels-photo-6925496.jpeg?auto=compress&cs=tinysrgb&h=650&w=940&id=6925496",
+          imageSrc: "https://images.pexels.com/photos/5517064/pexels-photo-5517064.jpeg?auto=compress&cs=tinysrgb&h=650&w=940&id=5517064",
         },
         {
           title: "Caudalie",
