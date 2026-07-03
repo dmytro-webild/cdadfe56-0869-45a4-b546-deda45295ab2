@@ -13,7 +13,7 @@ export default function HomePage() {
   <div id="home" data-section="home">
     <SectionErrorBoundary name="home">
           <HeroSplitVerticalMarqueeTall
-      tag="Kiko Beauty Marrakech"
+      tag="Kiki Beauty Store Marrakech"
       title="Votre Partenaire Beauté Parapharmacie de Confiance"
       description="Découvrez des dermo-cosmétiques premium au cœur de Marrakech. Des conseils d'experts et des marques de renommée mondiale comme La Roche-Posay, Avène et Caudalie."
       primaryButton={{
@@ -55,8 +55,8 @@ export default function HomePage() {
     <SectionErrorBoundary name="about">
           <AboutTestimonial
       tag="Notre Engagement"
-      quote="Kiko Beauty apporte les meilleurs soins parapharmaceutiques du monde à votre porte à Marrakech. Notre mission est de combiner des conseils dermatologiques experts avec les solutions de soins de la peau les plus efficaces, sûres et luxueuses disponibles aujourd'hui."
-      author="L'équipe Kiko Beauty"
+      quote="Kiki Beauty Store apporte les meilleurs soins parapharmaceutiques du monde à votre porte à Marrakech. Notre mission est de combiner des conseils dermatologiques experts avec les solutions de soins de la peau les plus efficaces, sûres et luxueuses disponibles aujourd'hui."
+      author="L'équipe Kiki Beauty Store"
       role="Experts Dermo-Cosmétiques"
       imageSrc="https://images.pexels.com/photos/8406601/pexels-photo-8406601.jpeg?auto=compress&cs=tinysrgb&h=650&w=940&id=8406601"
       textAnimation="fade-blur"
