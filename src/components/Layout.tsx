@@ -42,7 +42,7 @@ export default function Layout() {
       <SiteBackgroundSlot />
       <SectionErrorBoundary name="navbar">
         <NavbarInline
-      logo="KIKO BEAUTY"
+      logo="KIKI BEAUTY STORE"
       ctaButton={{
         text: "Visit Us",
         href: "#contact",
@@ -54,7 +54,7 @@ export default function Layout() {
       </main>
       <SectionErrorBoundary name="footer">
         <FooterSimpleMedia
-      brand="KIKO BEAUTY"
+      brand="KIKI BEAUTY STORE"
       columns={[
         {
           title: "Shop",
