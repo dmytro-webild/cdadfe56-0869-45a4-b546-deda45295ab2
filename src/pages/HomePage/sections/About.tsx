@@ -11,7 +11,7 @@ export default function AboutSection(): React.JSX.Element {
         <SectionErrorBoundary name="about">
               <AboutTestimonial
           tag="Notre Engagement"
-          quote="Kiki Beauty Store apporte les meilleurs soins parapharmaceutiques du monde à votre porte à Marrakech. Notre mission est de combiner des conseils dermatologiques experts avec les solutions de soins de la peau les plus efficaces, sûres et luxueuses disponibles aujourd'hui."
+          quote="Kiki Beauty Store sélectionne les meilleurs produits de parapharmacie et de dermocosmétique du monde pour les mettre à votre portée, à Marrakech. Notre mission est de vous offrir une expérience de soin d'exception en associant une  sélection rigoureuse de marques reconnues à des solutions efficaces, sûres et adaptées à tous les types de peau. "
           author="L'équipe Kiki Beauty Store"
           role="Experts Dermo-Cosmétiques"
           imageSrc="https://images.pexels.com/photos/8406601/pexels-photo-8406601.jpeg?auto=compress&cs=tinysrgb&h=650&w=940&id=8406601"
