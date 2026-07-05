@@ -8,29 +8,21 @@ import React from 'react';
 import HomeSection from './HomePage/sections/Home';
 import AboutSection from './HomePage/sections/About';
 import BrandsSection from './HomePage/sections/Brands';
-import ProductsSection from './HomePage/sections/Products';
 import TestimonialsSection from './HomePage/sections/Testimonials';
 import FaqSection from './HomePage/sections/Faq';
 import ContactSection from './HomePage/sections/Contact';
+import ProductRatingCardsSection from './HomePage/sections/ProductRatingCards';
 
-
-import ProductRatingCardsSection from './HomePage/sections/ProductRatingCards';export default function HomePage(): React.JSX.Element {
+export default function HomePage(): React.JSX.Element {
   return (
-<>
-  <HomeSection />
-
-  <AboutSection />
-
-  <BrandsSection />
-
-  <ProductsSection />
+    <>
+      <HomeSection />
+      <AboutSection />
+      <BrandsSection />
       <ProductRatingCardsSection />
-
-  <TestimonialsSection />
-
-  <FaqSection />
-
-  <ContactSection />
+      <TestimonialsSection />
+      <FaqSection />
+      <ContactSection />
     </>
   );
 }
